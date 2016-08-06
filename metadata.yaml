@@ -1,0 +1,36 @@
+_repo: Erick-and-Sally_10436
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Spyri, Johanna
+    aliases:
+    - Spyri, Johanna Heusser
+    - Heusser, Johanna Louise
+    birthdate: 1827
+    deathdate: 1901
+    gutenberg_agent_id: '2491'
+    url: http://www.gutenberg.org/2009/agents/2491
+    wikipedia: http://en.wikipedia.org/wiki/Johanna_Spyri
+description: 'Go to top; Johanna Spyri; I: In the Parsonage of Upper Wood; II: A Call
+  in the Village; Now the Lady Held Out Her Hand and Said in a Friendly Tone, "Come
+  Here, Dear Child," ... ; III: ''Lizebeth on the Warpath; IV: The Same Night in Two
+  Houses; V: Disturbance in School and Home; VI: A Lost Hymn; VII: Erick Enlists in
+  the Fighting Army; VIII: What Happens on Organ-Sunday; IX: A Secret That Is Kept;
+  X: Surprising Things Happen; Churi ... Unexpectedly Gave Him Such a Severe Push
+  That Erick Rolled Down the Rest of the Mountain Side ...'
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10436'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Orphans -- Juvenile fiction'
+- !lcsh 'Switzerland -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Erick and Sally
+url: http://www.gutenberg.org/ebooks/10436
