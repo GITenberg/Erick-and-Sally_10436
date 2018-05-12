@@ -1,5 +1,8 @@
 _repo: Erick-and-Sally_10436
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Spyri, Johanna
@@ -18,6 +21,8 @@ description: 'Go to top; Johanna Spyri; I: In the Parsonage of Upper Wood; II: A
   the Fighting Army; VIII: What Happens on Organ-Sunday; IX: A Secret That Is Kept;
   X: Surprising Things Happen; Churi ... Unexpectedly Gave Him Such a Severe Push
   That Erick Rolled Down the Rest of the Mountain Side ...'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10436#Erick-and-Sally
 gutenberg_bookshelf: Children's Literature
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
